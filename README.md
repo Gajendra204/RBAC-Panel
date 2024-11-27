@@ -5,13 +5,13 @@ This project is a User Management System developed using React-JS, offering func
 
 ## Features
 
-- **Add Users**:  Easily add users through a form by entering details like name, email, and role. The email field includes validation to ensure correct formatting before submission. q
+- **Add Users**:  Easily add users through a form by entering details like name, email, and role. The email field includes validation to ensure correct formatting before submission. 
 - **Edit Users**: Update user details by selecting the "Edit" button in the table. The form will load pre-filled user information for easy editing. 
 - **Delete Users**:Remove users permanently by clicking the "Delete" button associated with their record.
 - **Responsiveness**: The app adjusts seamlessly across desktop and mobile devices for a consistent user experience.
 - **Role Management**:Define and assign roles to users when creating or updating their details, offering control over access levels.
 - **Data Persistence**: All data is saved in the browser's localStorage, enabling persistence even after the browser is closed or refreshed.  
--**Search and Sorting**: Quickly find users in the table using the search bar by typing their name, email, or role.
+- **Search and Sorting**: Quickly find users in the table using the search bar by typing their name, email, or role.
 
 ## Technologies Utilized
 
