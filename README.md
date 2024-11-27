@@ -25,7 +25,7 @@ This project is a User Management System developed using React-JS, offering func
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/harver2001/RBAC-VRV-Security
+   git clone https://github.com/Gajendra204/RBAC-Panel.git
 
 2. **Install dependencies:**
 
